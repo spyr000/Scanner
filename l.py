@@ -1,3 +1,0 @@
-#dsffsdffsddf
-def g():
-    pass
